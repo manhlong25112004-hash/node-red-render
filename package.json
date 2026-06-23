@@ -12,8 +12,8 @@
         "node-red-contrib-telegrambot": "^15.1.1",
         "node-red-node-mysql": "^1.0.3",
         "node-red-contrib-google-sheets": "^1.1.1",
-        "node-red-contrib-blynk-ws": "^1.0.6",
-        "node-red-contrib-ngrok": "^3.2.0"
+        "node-red-contrib-blynk-ws": "^1.0.6"
+ 
         
     }
 }
