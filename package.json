@@ -7,8 +7,13 @@
         "nano": "~10.x",
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
-        "node-red": "~3.x",
+        "node-red": "^3.0.2",
         "node-red-dashboard": "^3.6.5",
-       "node-red-contrib-telegrambot": "^15.1.1"
+        "node-red-contrib-telegrambot": "^15.1.1",
+        "node-red-node-mysql": "^1.0.3",
+        "node-red-contrib-google-sheets": "^1.1.1",
+        "node-red-contrib-blynk-ws": "^1.0.6",
+        "node-red-contrib-ngrok": "^1.4.1"
+        
     }
 }
